@@ -1,0 +1,36 @@
+body {
+background: #222;
+color: white;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+#game-board {
+width: 320px;
+height: 320px;
+margin: 20px auto;
+display: grid;
+grid-template-columns: repeat(8, 40px);
+grid-template-rows: repeat(8, 40px);
+gap: 2px;
+}
+
+.cell {
+width: 40px;
+height: 40px;
+background: #333;
+border-radius: 4px;
+}
+
+.filled {
+background: #4caf50;
+}
+
+#pieces {
+margin-top: 20px;
+}
+
+.piece {
+display: inline-block;
+margin: 10px;
+}
