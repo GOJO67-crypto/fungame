@@ -1,2 +1,2 @@
-# fungame
-This is a website of games this is not a school project i am doing this for fun
+# Games =)
+This is a website of games for your calming of the mind have fun
